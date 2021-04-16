@@ -1,3 +1,2 @@
 # 21TrizCourse
-This is my course project in Shanghai Maritime University.
-Here is only an idea for future programming modle.
+This is my course project in Shanghai Maritime University, which is only an idea for future programming modle.
